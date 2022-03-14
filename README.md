@@ -25,3 +25,5 @@ I have worked with:
 ![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat)
 ![Strapi](https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=flat&logo=strapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white)
+
+### [Check out my colleague portfolio](https://github.com/yagii99)
